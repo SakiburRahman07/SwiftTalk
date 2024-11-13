@@ -23,6 +23,7 @@ struct RegistrationView: View {
 
             Button(action: {
                 // registration er logic likhte hbe
+                //
             }) {
                 Text("Register")
                     .padding()
